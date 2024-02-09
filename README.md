@@ -6,7 +6,8 @@ But instead it has a Ui.
 This is very simple to use. 
 
 Pretty much just drag your FortniteGame Folder into the directory where the TivaU4Pak.exe is.
-And then the FortniteGame folder should look like 
+And then the FortniteGame folder should look like
+
 ![image](https://github.com/itztiva/u4pak.exe/assets/98614842/7e843ab9-aca5-4158-bce0-8e9b2dae5372)
 
 Then launch up TivaU4Pak.exe and Set your pak name and press save. 
